@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "knex": "^3.0.1",
+    "mysql": "^2.18.1",
+    "restify": "^11.1.0",
+    "restify-errors": "^8.0.2"
+  },
+  "name": "loja",
+  "version": "1.0.0",
+  "description": "API para a loja",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Vitor",
+  "license": "ISC"
+}
